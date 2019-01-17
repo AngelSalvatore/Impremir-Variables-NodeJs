@@ -1,2 +1,2 @@
-# Impremir-Variables-NodeJs
-Imprimir variables en vista echas en el servidor.
+# Imprimir-Variables-NodeJs
+Imprimir variables en vista, con variables echas en el servidor.
